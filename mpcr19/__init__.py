@@ -42,7 +42,7 @@ from skimage.util import view_as_blocks, view_as_windows
 from skimage.transform import rescale, resize
 
 ## from scipy.misc import bytescale
-import plotly.plotly as py
+import chart_studio.plotly as py
 import plotly.graph_objs as go
 from matplotlib import pylab
 from numpy import arange,array,ones
