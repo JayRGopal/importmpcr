@@ -41,7 +41,7 @@ from scipy import signal
 from skimage.util import view_as_blocks, view_as_windows
 from skimage.transform import rescale, resize
 
-from scipy.misc import bytescale
+## from scipy.misc import bytescale
 import plotly.plotly as py
 import plotly.graph_objs as go
 from matplotlib import pylab
